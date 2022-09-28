@@ -3,7 +3,7 @@
 
 
 - 💻 Fellow at Polygon Fellowship 2022 
-- 🌱 I’m currently learning Solidity ⟠ and Vala 
+- 🌱 I’m currently learning Solidity ⟠ and Flutter 
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Email me](mailto:rakshit087@gmail.com) or [Twitter DMs](https://twitter.com/rakshit087)!
 - 📖 Read my stuff at [Nerd@Night](https://rakshit087.hashnode.dev/)!
